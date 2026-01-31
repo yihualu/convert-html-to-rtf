@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow git to keep these folders
+!src/
+!src/**
+!tools/
+!tools/**
+
+# Allow gitignore itself
+!.gitignore
