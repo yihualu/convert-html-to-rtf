@@ -9,3 +9,6 @@
 
 # Allow gitignore itself
 !.gitignore
+
+# Allow repository documentation
+!README.md
